@@ -1,0 +1,47 @@
+.supportContainer{
+    padding-top: 10px;
+}
+.bannerContainer{
+    color: #009387;
+}
+
+
+.carouselcontainer {
+    margin-bottom: 50px;
+    border: 2px solid #009387;
+    border-radius: 15px;
+    border-style: dashed;
+  }
+  .carousel-item:hover{
+    transform: scale(1.1);
+  }
+  .carouselfacebookcard {
+    background-color: #1565c0;
+    color: white;
+  }
+  
+  .carouselinstagramcard {
+    background-color: #fc4141;
+    color: white;
+  }
+  
+  .carouselwhatsappcard {
+    background-color: #009353;
+    color: white;
+  }
+  
+  .carouselphoneecard{
+    background-color: #b677e2;
+    color: #fff;
+  }
+
+  .carouseltwittercard {
+    background-color: rgb(9, 140, 247);
+    color: white;
+  }
+  
+  .carouselenvelopecard {
+    background-color: rgb(228, 91, 18);
+    color: white;
+  }
+  

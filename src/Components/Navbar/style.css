@@ -1,0 +1,21 @@
+.nav-wrapper {
+    background-color: #01caba;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.brand-logo{
+    font-weight: bold;
+}
+
+.nav-icon{
+  padding-left: 20px;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    nav .brand-logo {
+      font-size: 1.5rem;
+    }
+  }

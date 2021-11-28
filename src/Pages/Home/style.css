@@ -1,0 +1,134 @@
+.bikeSearchContainer{
+    background-image: linear-gradient(#00998c,#00332f);
+}
+.bikeSearchTextContainer{
+    height: 500px;
+}
+.bikeSearchInputContainer{
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.bannerBikeImage{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.bikeSearchInnerContainer{
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.citySelectContainer{
+    margin: 15px;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+}
+.dateTimeSelectContainer{
+    padding-left: 24px;
+    padding-right: 24px;
+    text-align: center;
+}
+.pickupDateSelect{
+    border: 1px solid grey;
+    cursor: pointer;
+}
+.pickupDateSelect:hover{
+    border-color: #1dfdeb;
+}
+.pickupTimeSelect{
+    border: 1px solid grey;
+    cursor: pointer;
+}
+.pickupTimeSelect:hover{
+    border-color: #1dfdeb;
+}
+.pickupDateText{
+    color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.citySelectButton{
+    border:1px solid grey;
+    background-color: #1dfdeb;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.citySelectButton:hover{
+    color: white;
+    border-color: white;
+}
+.citySelectButtonContainer{
+    margin-top: 10px;
+}
+.citySelectText{
+    border:1px solid grey;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+.citySelectHeader{
+    padding-left:15px;
+    padding-top: 5px;
+}
+.SearchButtonContainer{
+    margin: 10px;
+    border: 2px solid grey;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #009387;
+    color: white;
+    margin-bottom: 15px;
+}
+.SearchButtonText{
+    color: white;
+    cursor: pointer;
+}
+
+.iconTextContainer{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.appDownload{
+    background-color: #009387;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.cityBlock{
+    border-radius: 5px;
+    cursor: pointer;
+    height: 200px;
+}
+
+.cityBlock:hover{
+    background-color: #009387;
+}
+
+.timeButton{
+    margin-top: 20px;
+}
+.bigHeader{
+    margin: 100px;
+}
+.displayImages{
+    margin-top: 50px;
+}
+.downloadButton{
+    margin-top: 50px;
+    width: 60%;
+}
+.downloadButton:hover{
+    background-color: #0cd6c6;
+    color: white;
+}
+.FAQContainer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

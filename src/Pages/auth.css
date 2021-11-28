@@ -1,0 +1,23 @@
+.loginbody{
+    background-image: linear-gradient(#009387,#005387)
+}
+
+.logincontainer{
+    width: 40%;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+@media only screen and (max-width: 600px) {
+   
+    .logincontainer{
+        width: 100%;
+    }
+  }
+
+  .loginfields{
+    margin-top:50px;
+}
